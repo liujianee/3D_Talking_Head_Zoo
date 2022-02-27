@@ -1,5 +1,5 @@
 # 3D Talking_Head_Zoo
-A collection of interesting talking heads.
+A collection of interesting 3D talking heads.
 
 
 # Introduction
@@ -9,5 +9,5 @@ This is like a hobby repo, I'll release finished clips occasionally.
 
 
 # Talking Orc
-[![Watch the video]()](https://youtu.be/KeA-bEr40Vw)
+[![Watch the video](https://github.com/liujianee/3D_Talking_Head_Zoo/blob/main/thumbnails/orc_thumbnail.png)](https://youtu.be/KeA-bEr40Vw)
 
