@@ -1,5 +1,4 @@
 # 3D Talking_Head_Zoo
-A collection of interesting 3D talking heads.
 
 
 # Introduction
