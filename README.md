@@ -19,3 +19,8 @@ The Orc 3D model is from [here](https://free3d.com/3d-model/orc-head-587070.html
 ## Talking Medusa
 Coming soon ...
 
+
+
+# Disclaimer
+
+The raw video/audio contents used in these clips belongs to the original owners.
