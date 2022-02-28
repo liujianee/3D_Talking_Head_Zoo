@@ -20,7 +20,9 @@ The Orc 3D model is from [here](https://free3d.com/3d-model/orc-head-587070.html
 
 The Medusa model is from [here](https://www.cgtrader.com/free-3d-print-models/art/sculptures/medusa-bust).
 
-Notes: I used soft body simulation to simulate the snakes wiggling along the head movements.
+Notes: 
+1. I used soft body simulation to simulate the snakes wiggling along the head movements.
+2. I'll add clips with female voice and other languages in the near future.
 
 
 # Disclaimer
