@@ -16,7 +16,9 @@ The Orc 3D model is from [here](https://free3d.com/3d-model/orc-head-587070.html
 
 
 ## Talking Medusa
-[![Watch the video]()](https://youtu.be/XASZ058RWys)
+[![Watch the video](https://github.com/liujianee/3D_Talking_Head_Zoo/blob/main/thumbnails/medusa_thumbnail.png)](https://youtu.be/XASZ058RWys)
+
+The Medusa model is from [here](https://www.cgtrader.com/free-3d-print-models/art/sculptures/medusa-bust)
 
 
 
